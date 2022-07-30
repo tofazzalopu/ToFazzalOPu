@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ToFazzalOPu
-- 👀 I’m interested in design
-- 🌱 I’m currently learning java
+- 👀 I’m interested in design & development
+- 🌱 I’m currently learning flutter & Java
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me ...
 

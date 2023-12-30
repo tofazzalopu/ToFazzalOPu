@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tofazzal Hossain</h1>
-<h3 align="center">I'm a recent CSE graduate. specialized in python programming & android app development. I like building new things. I am also an Graphic Designer!</h3>
+<h3 align="center">I'm a recent CSE graduate. specialized in Python Programming & Android App Development. I like building new things. I am also an Graphic Designer!</h3>
 
-- 🔭 I’m currently researching on **deep learning algorithms, flutter, cloud and random stuff.**
+- 🔭 I’m currently researching on **Deep learning algorithms, flutter, cloud and random stuff.**
 
 - 🌱 I’m currently learning **something new everyday**
 
-- 🤝 2023 Goals: **Researching of Computer vision, Deep learning, Data Analytics and much more etc.**
+- 🤝 2024 Goals: **Researching of Deep learning, Data Analytics and much more**
 
 - ⚡ Fun fact **I love to travel**
 

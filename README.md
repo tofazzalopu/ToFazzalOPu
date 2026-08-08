@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tofazzal Hossain</h1>
-<h3 align="center">I'm CSE graduate, specialized in Python Programming & Android App Development. I like building new things. I am also an Graphic Designer!</h3>
+<h3 align="center">I'm a CSE graduate, specialized in Python Programming & Android App Development. I like building new things. I am also an Graphic Designer!</h3>
 
 - 🔭 I’m currently researching on **Deep learning algorithms, flutter, cloud and random stuff.**
 
